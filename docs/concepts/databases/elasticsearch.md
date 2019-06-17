@@ -106,7 +106,7 @@ spec:
 `spec.version` is a required field that specifies the name of the [ElasticsearchVersion](/docs/concepts/catalog/elasticsearch.md) crd where the docker images are specified. Currently, when you install KubeDB, it creates the following `ElasticsearchVersion` crd,
 
 - `5.6`, `5.6-v1`, `5.6.4`, `5.6.4-v1`
-- `6.2`, `6.2-v1`, `6.2.4`, `6.2.4-v1`, `6.3`, `6.3-v1`, `6.3.0`, `6.3.0-v1`
+- `6.2`, `6.2-v1`, `6.2.4`, `6.2.4-v1`, `6.3`, `6.3-v1`, `6.3.0`, `6.3.0-v1`, `6.8.0`
 
 ### spec.topology
 
